@@ -1,0 +1,224 @@
+{
+  "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+  "analysis_time": "20250614_210232",
+  "comparison": {
+    "new_errors": [
+      {
+        "type": "network_error",
+        "text": "Failed request: https://network-a.bazaarvoice.com/a.gif?loadId=4a3db547949921ec&BVBRANDID=9e214c2e-1f1f-457b-b0a8-3214285887f9&BVBRANDSID=441fa9a7-7864-40b3-8a37-d8df2e55fe47&tz=420&sourceVersion=3.17.2&magpieJsVersion=3.17.2&source=firebird&client=hersheys&dc=16387_3_0&host=www.hersheyland.com&r_batch=!((bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:110.2000000178814,endTime:1451.6000000238419,locale:en_US,name:bv-primary-ready,startTime:1341.4000000059605,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:21.099999994039536,endTime:1472.7000000178814,locale:en_US,name:bv-primary-run,startTime:1451.6000000238419,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:45.39999997615814,endTime:1497,locale:en_US,name:bv-slow-path-ready,startTime:1451.6000000238419,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:155.59999999403954,endTime:1497,locale:en_US,name:bv-core-app,startTime:1341.4000000059605,type:Performance),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274682457%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274678136%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:Reese%E2%80%99s,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274671993%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274462133%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274553880%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274540702%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274534476%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274503785%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274496791%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274473004%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273485132%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273480868%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273475210%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273442737%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273256194%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273310292%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273302366%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273298758%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273281741%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273280484%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273276959%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273261934%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266282178%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266278453%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266273372%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27))&_=ciwty0",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.187408",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://script.crazyegg.com/pages/scripts/0124/2079.js",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.190232",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google.com/ccm/collect?tid=AW-979147665&en=page_view&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&scrsrc=www.googletagmanager.com&frm=0&rnd=1056586382.1749960120&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&auid=929514802.1749960120&navt=n&npa=0&gtm=45be56b1v884980803za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&tft=1749960119807&tfd=1792&apve=1&apvf=f",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.192275",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://s.amazon-adsystem.com/iu3?pid=d7c5e177-5439-473a-b5e9-74d607f3e62d&event=PageView&ts=1749960119645&eventSource=amzn.js&uuid=f2ebc604-0cf8-485a-9752-8e4447fccef0&dcc=t",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.194543",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-E62CCY686G&gtm=45je56b1v873607898za200&_p=1749960119800&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&cid=2080566822.1749960120&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=denied&_s=1&sid=1749960119&sct=1&seg=0&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.content_group=products&ep.brand=reeses&ep.content_type=productdetail&tfd=1964",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.196389",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://s.amazon-adsystem.com/iu3?pid=d7c5e177-5439-473a-b5e9-74d607f3e62d&event=PageView&dcc=t",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.198031",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-EKHHQMT8H4&gtm=45je56b1v874832916za200zb884980803&_p=1749960119800&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&cid=2080566822.1749960120&ecid=1940606338&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=denied&_s=1&sid=1749960120&sct=1&seg=0&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&en=page_view&_fv=1&_ss=1&_ee=1&ep.content_group=products&ep.brand=reeses&ep.content_type=productdetail&tfd=2069",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.199428",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "performance",
+        "text": "Slow resource loading: https://network-a.bazaarvoice.com/a.gif?loadId=4a3db547949921ec&BVBRANDID=9e214c2e-1f1f-457b-b0a8-3214285887f9&BVBRANDSID=441fa9a7-7864-40b3-8a37-d8df2e55fe47&tz=420&sourceVersion=3.17.2&magpieJsVersion=3.17.2&source=bv-loader&environment=prod&client=hersheys&dc=16387_3_0&host=www.hersheyland.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.4%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,detail1:apiRequest,displaySegment:baseline,locale:en_US,name:statisticsJson,type:api),(bvProduct:InlineRatings,bvProductVersion:%272.7.4%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,detail1:apiSuccess,displaySegment:baseline,locale:en_US,name:statisticsJson,type:api))&_=g6lxkb",
+        "duration": 1153.7999999821186,
+        "initiatorType": "img",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "timestamp": "2025-06-14T21:02:09.200792",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ],
+    "total_rum_errors": 0,
+    "total_console_errors": 8,
+    "new_error_count": 8,
+    "rum_error_details": [],
+    "console_error_details": [
+      {
+        "type": "network_error",
+        "text": "Failed request: https://network-a.bazaarvoice.com/a.gif?loadId=4a3db547949921ec&BVBRANDID=9e214c2e-1f1f-457b-b0a8-3214285887f9&BVBRANDSID=441fa9a7-7864-40b3-8a37-d8df2e55fe47&tz=420&sourceVersion=3.17.2&magpieJsVersion=3.17.2&source=firebird&client=hersheys&dc=16387_3_0&host=www.hersheyland.com&r_batch=!((bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:110.2000000178814,endTime:1451.6000000238419,locale:en_US,name:bv-primary-ready,startTime:1341.4000000059605,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:21.099999994039536,endTime:1472.7000000178814,locale:en_US,name:bv-primary-run,startTime:1451.6000000238419,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:45.39999997615814,endTime:1497,locale:en_US,name:bv-slow-path-ready,startTime:1451.6000000238419,type:Performance),(bvProductVersion:%273.1.48%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,elapsedMs:155.59999999403954,endTime:1497,locale:en_US,name:bv-core-app,startTime:1341.4000000059605,type:Performance),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274682457%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274678136%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:Reese%E2%80%99s,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274671993%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274462133%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274553880%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274540702%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274534476%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274503785%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274496791%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%274473004%27,contentType:question,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273485132%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273480868%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273475210%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273442737%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273256194%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273310292%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273302366%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273298758%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273281741%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273280484%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273276959%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(bvProduct:AskAndAnswer,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%273261934%27,contentType:answer,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266282178%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266278453%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27),(brand:%27REESE!%27S%27,bvProduct:RatingsAndReviews,bvProductVersion:%273.1.48%27,categoryId:dejt3uyzwzoc8s0frxu75hije,cl:Impression,contentId:%27266273372%27,contentType:review,context:Read,deploymentZone:%272021_new_site%27,initialContent:!t,locale:en_US,siteId:%272021_new_site%27,type:UGC,version:%272.0%27))&_=ciwty0",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.187408",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://script.crazyegg.com/pages/scripts/0124/2079.js",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.190232",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google.com/ccm/collect?tid=AW-979147665&en=page_view&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&scrsrc=www.googletagmanager.com&frm=0&rnd=1056586382.1749960120&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&auid=929514802.1749960120&navt=n&npa=0&gtm=45be56b1v884980803za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&tft=1749960119807&tfd=1792&apve=1&apvf=f",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.192275",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://s.amazon-adsystem.com/iu3?pid=d7c5e177-5439-473a-b5e9-74d607f3e62d&event=PageView&ts=1749960119645&eventSource=amzn.js&uuid=f2ebc604-0cf8-485a-9752-8e4447fccef0&dcc=t",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.194543",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-E62CCY686G&gtm=45je56b1v873607898za200&_p=1749960119800&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&cid=2080566822.1749960120&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=denied&_s=1&sid=1749960119&sct=1&seg=0&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.content_group=products&ep.brand=reeses&ep.content_type=productdetail&tfd=1964",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.196389",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://s.amazon-adsystem.com/iu3?pid=d7c5e177-5439-473a-b5e9-74d607f3e62d&event=PageView&dcc=t",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.198031",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-EKHHQMT8H4&gtm=45je56b1v874832916za200zb884980803&_p=1749960119800&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104661466~104661468~104718208~104736445~104736447&cid=2080566822.1749960120&ecid=1940606338&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=denied&_s=1&sid=1749960120&sct=1&seg=0&dl=https%3A%2F%2Fwww.hersheyland.com%2Fproducts%2Freeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html&dt=REESE%27S%20Milk%20Chocolate%20Peanut%20Butter%20Snack%20Size%20Eggs%2C%2015%20oz%20bag&en=page_view&_fv=1&_ss=1&_ee=1&ep.content_group=products&ep.brand=reeses&ep.content_type=productdetail&tfd=2069",
+        "status": null,
+        "timestamp": "2025-06-14T21:02:09.199428",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "performance",
+        "text": "Slow resource loading: https://network-a.bazaarvoice.com/a.gif?loadId=4a3db547949921ec&BVBRANDID=9e214c2e-1f1f-457b-b0a8-3214285887f9&BVBRANDSID=441fa9a7-7864-40b3-8a37-d8df2e55fe47&tz=420&sourceVersion=3.17.2&magpieJsVersion=3.17.2&source=bv-loader&environment=prod&client=hersheys&dc=16387_3_0&host=www.hersheyland.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.4%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,detail1:apiRequest,displaySegment:baseline,locale:en_US,name:statisticsJson,type:api),(bvProduct:InlineRatings,bvProductVersion:%272.7.4%27,cl:Diagnostic,deploymentZone:%272021_new_site%27,detail1:apiSuccess,displaySegment:baseline,locale:en_US,name:statisticsJson,type:api))&_=g6lxkb",
+        "duration": 1153.7999999821186,
+        "initiatorType": "img",
+        "url": "https://www.hersheyland.com/products/reeses-milk-chocolate-peanut-butter-snack-size-eggs-15-oz-bag.html",
+        "timestamp": "2025-06-14T21:02:09.200792",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ]
+  },
+  "analysis": 
