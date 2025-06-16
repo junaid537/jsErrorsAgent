@@ -1,0 +1,18 @@
+{
+  "url": "https://www.shredit.com/en-us",
+  "analysis_time": "20250616_115729",
+  "console_errors": [
+    {
+      "type": "console_error",
+      "text": "An invalid form control with name='searchQuery' is not focusable.",
+      "location": {
+        "url": "",
+        "lineNumber": 4,
+        "columnNumber": 0
+      },
+      "url": "https://www.shredit.com/en-us",
+      "timestamp": "2025-06-16T11:56:14",
+      "collected_from": "browser_console"
+    }
+  ],
+  "analysis": 

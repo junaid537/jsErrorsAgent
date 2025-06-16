@@ -1,0 +1,330 @@
+{
+  "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+  "analysis_time": "20250616_103327",
+  "comparison": {
+    "new_errors": [
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 52,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.888670",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 57,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.891129",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://bat.bing.com/action/0?ti=5118030&Ver=2",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.892740",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "stack": null,
+        "source": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+        "line": 0,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.894615",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1367:0",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.896891",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1367:0",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.898789",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 52,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.900747",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 57,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.902318",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://10360614.fls.doubleclick.net/activityi;dc_pre=CMPcz8C89o0DFRu-jggdbc4QXw;src=10360614;type=roso10;cat=shred00;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u5=%60;u6=undefined;u7=https%3A%2F%2Fwww.shredit.com%2F;u8=undefined;u9=undefined;u10=undefined;ord=885196835;~oref=https%3A%2F%2Fwww.shredit.com%2F?",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.904297",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://10360614.fls.doubleclick.net/activityi;dc_pre=CObhz8C89o0DFVO9jggdVwIFdw;src=10360614;type=roso10;cat=shred000;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u5=%60;u6=undefined;u7=https%3A%2F%2Fwww.shredit.com%2F;u8=undefined;u9=undefined;u10=undefined;ord=1;num=885196835;~oref=https%3A%2F%2Fwww.shredit.com%2F?",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.905989",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-67ZD3MD8MW&gtm=45je56c0v9101118394z8893688831za200zb893688831&_p=1750095155477&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104573694~104617979~104617981~104718208~104736445~104736447~104748473~104748475&cid=1182564442.1750095156&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1750095155&sct=1&seg=0&dl=https%3A%2F%2Fwww.shredit.com%2Fen-us%2Fresource-center%2Finfo-sheets%2Fpreventing-identity-theft&dt=Preventing%20Identity%20Theft&en=page_view&_fv=1&_ss=1&tfd=5656",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.907642",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ],
+    "total_rum_errors": 0,
+    "total_console_errors": 11,
+    "new_error_count": 11,
+    "rum_error_details": [],
+    "console_error_details": [
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 52,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.888670",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 57,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.891129",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://bat.bing.com/action/0?ti=5118030&Ver=2",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.892740",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "stack": null,
+        "source": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+        "line": 0,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.894615",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1367:0",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.896891",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1367:0",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.898789",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 52,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.900747",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "stack": null,
+        "source": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+        "line": 57,
+        "column": 0,
+        "timestamp": "2025-06-16T10:32:40.902318",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://10360614.fls.doubleclick.net/activityi;dc_pre=CMPcz8C89o0DFRu-jggdbc4QXw;src=10360614;type=roso10;cat=shred00;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u5=%60;u6=undefined;u7=https%3A%2F%2Fwww.shredit.com%2F;u8=undefined;u9=undefined;u10=undefined;ord=885196835;~oref=https%3A%2F%2Fwww.shredit.com%2F?",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.904297",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://10360614.fls.doubleclick.net/activityi;dc_pre=CObhz8C89o0DFVO9jggdVwIFdw;src=10360614;type=roso10;cat=shred000;u1=undefined;u2=undefined;u3=undefined;u4=undefined;u5=%60;u6=undefined;u7=https%3A%2F%2Fwww.shredit.com%2F;u8=undefined;u9=undefined;u10=undefined;ord=1;num=885196835;~oref=https%3A%2F%2Fwww.shredit.com%2F?",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.905989",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "type": "network_error",
+        "text": "Failed request: https://www.google-analytics.com/g/collect?v=2&tid=G-67ZD3MD8MW&gtm=45je56c0v9101118394z8893688831za200zb893688831&_p=1750095155477&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104573694~104617979~104617981~104718208~104736445~104736447~104748473~104748475&cid=1182564442.1750095156&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B136.0.7103.25%7CHeadlessChrome%3B136.0.7103.25%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1750095155&sct=1&seg=0&dl=https%3A%2F%2Fwww.shredit.com%2Fen-us%2Fresource-center%2Finfo-sheets%2Fpreventing-identity-theft&dt=Preventing%20Identity%20Theft&en=page_view&_fv=1&_ss=1&tfd=5656",
+        "status": null,
+        "timestamp": "2025-06-16T10:32:40.907642",
+        "url": "https://www.shredit.com/en-us/resource-center/info-sheets/preventing-identity-theft",
+        "collected_from": "browser_console",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ]
+  },
+  "analysis": 

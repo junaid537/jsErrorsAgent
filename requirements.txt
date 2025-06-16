@@ -3,4 +3,30 @@ playwright>=1.41.0
 python-dotenv>=1.0.0
 langchain>=0.1.0
 pandas>=2.0.0
-requests>=2.31.0 
+requests>=2.31.0
+
+browser = playwright.chromium.launch(headless=False)
+
+def handle_console_msg(msg):
+    print(f"[Console {msg.type}] {msg.text} @ {page.url}")
+    console_errors.append({
+        "type": f"console_{msg.type}",
+        "text": msg.text,
+        "location": msg.location,
+        "url": page.url,
+        "timestamp": time.strftime('%Y-%m-%dT%H:%M:%S'),
+        "collected_from": "browser_console"
+    })
+page.on("console", handle_console_msg)
+
+def handle_request_failed(request):
+    print(f"[Network Error] {request.url} - {request.failure.error_text}")
+    console_errors.append({
+        "type": "network_error",
+        "text": request.failure.error_text,
+        "url": request.url,
+        "page_url": page.url,
+        "timestamp": time.strftime('%Y-%m-%dT%H:%M:%S'),
+        "collected_from": "network"
+    })
+page.on("requestfailed", handle_request_failed) 
