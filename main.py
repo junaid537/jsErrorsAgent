@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 # from browser_error_collector import BrowserErrorCollector
 # from error_analysis_agents import ErrorAnalysisAgents
 from datetime import datetime
-from error_stack_collector import collect_error_stacks
+from error_stack_collector import run_diagnostic_collection
 
 # Define patterns that indicate malicious content
 MALICIOUS_PATTERNS = [
@@ -107,7 +107,7 @@ def main():
 
         # Collect error stacks using Playwright
         print("\nCollecting error stacks using Playwright...")
-        error_stacks = collect_error_stacks()
+        error_stacks = run_diagnostic_collection()
         
         # Print summary of collected error stacks
         total_stacks = sum(len(stacks) for stacks in error_stacks.values())

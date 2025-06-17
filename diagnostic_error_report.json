@@ -1,0 +1,1291 @@
+{
+  "summary": {
+    "total_urls": 19,
+    "urls_with_js_errors": 4,
+    "stats": {
+      "total_console_errors": 62,
+      "total_page_errors": 1,
+      "csp_violations": 44,
+      "network_errors": 15,
+      "javascript_errors": 4,
+      "filtered_out": 44
+    }
+  },
+  "all_errors": {
+    "https://www.shredit.com/en-ca": [
+      {
+        "type": "page_error",
+        "category": "javascript_error",
+        "message": "Cannot read properties of undefined (reading 'TenantFeatures')",
+        "timestamp": "2025-06-16T21:30:01.228769",
+        "stack_trace": "TypeError: Cannot read properties of undefined (reading 'TenantFeatures')\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:429782\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:436601",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/document-destruction-one-time-regular": [
+      {
+        "type": "console_error",
+        "category": "javascript_error",
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        },
+        "timestamp": "2025-06-16T21:30:18.526849",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.725896",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.727442",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.728952",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.730823",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.733080",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.196713",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.198055",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.200091",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.201210",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.205471",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/secure-shredding-services/shredding-events": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.629837",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.630834",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.631907",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.635458",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.637263",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/hard-drive": [
+      {
+        "type": "console_error",
+        "category": "javascript_error",
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        },
+        "timestamp": "2025-06-16T21:31:18.313233",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/document-destruction-service": [
+      {
+        "type": "console_error",
+        "category": "javascript_error",
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        },
+        "timestamp": "2025-06-16T21:31:26.165077",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/contact-us": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.696569",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.698377",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.700086",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.701661",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.703392",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/email/pricing": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.835212",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.836778",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.838037",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.839122",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.840103",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/service-locations/orlando": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.446584",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.449360",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.450682",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.452261",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.455935",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/404": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:44.636208",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.563795",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.565363",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.567039",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.568192",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.569955",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:08.407162",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.175658",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.178297",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.183344",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.186412",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.188694",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/search?searchQuery=": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:51.661409",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:54.269802",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  "filtered_errors": {
+    "https://www.shredit.com/en-us": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.725896",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.727442",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.728952",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.730823",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:30:40.733080",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.196713",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.198055",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.200091",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.201210",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:04.205471",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/secure-shredding-services/shredding-events": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.629837",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.630834",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.631907",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.635458",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:05.637263",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/contact-us": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.696569",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.698377",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.700086",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.701661",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:38.703392",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/email/pricing": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.835212",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.836778",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.838037",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.839122",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:31:47.840103",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/service-locations/orlando": [
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.446584",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.449360",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.450682",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.452261",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:05.455935",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/404": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:44.636208",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.563795",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.565363",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.567039",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.568192",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:49.569955",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:08.407162",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+        "location": {
+          "url": "https://bat.bing.com/action/0?ti=5118030&Ver=2",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.175658",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.178297",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.183344",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 57,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.186412",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "csp_violation",
+        "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+        "location": {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-PK9H2QW",
+          "line": 52,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:33:13.188694",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ],
+    "https://www.shredit.com/en-us/search?searchQuery=": [
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:51.661409",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      {
+        "type": "console_error",
+        "category": "network_error",
+        "message": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": {
+          "url": "https://www.shredit.com/en-us/404",
+          "line": 0,
+          "column": 0
+        },
+        "timestamp": "2025-06-16T21:32:54.269802",
+        "stack_trace": "",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      }
+    ]
+  },
+  "javascript_errors": {
+    "https://www.shredit.com/en-ca": [
+      {
+        "message": "Cannot read properties of undefined (reading 'TenantFeatures')",
+        "stack_trace": "TypeError: Cannot read properties of undefined (reading 'TenantFeatures')\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:429782\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:436601",
+        "type": "page_error",
+        "location": {}
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/document-destruction-one-time-regular": [
+      {
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "stack_trace": "",
+        "type": "console_error",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        }
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/hard-drive": [
+      {
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "stack_trace": "",
+        "type": "console_error",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        }
+      }
+    ],
+    "https://www.shredit.com/en-ca/marketing/document-destruction-service": [
+      {
+        "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+        "stack_trace": "",
+        "type": "console_error",
+        "location": {
+          "url": "",
+          "line": 54,
+          "column": 37
+        }
+      }
+    ]
+  }
+}
