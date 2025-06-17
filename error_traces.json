@@ -1,0 +1,306 @@
+{
+  "https://www.shredit.com/en-ca": [
+    {
+      "message": "Cannot read properties of undefined (reading 'TenantFeatures')",
+      "stack_trace": "TypeError: Cannot read properties of undefined (reading 'TenantFeatures')\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:429782\n    at https://cdn.cookielaw.org/scripttemplates/202310.2.0/otBannerSdk.js:7:436601"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/document-destruction-one-time-regular": [
+    {
+      "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+      "stack_trace": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171"
+    }
+  ],
+  "https://www.shredit.com/en-us/marketing/shred-it-document-destruction-inline": [
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/en-us/marketing/shred-it-hard-drive-destruction": [
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/en-us/secure-shredding-services/shredding-events": [
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/en-ca/resource-centre/info-sheets/what-is-a-certificate-of-destruction-and-how-do-you-obtain-one-": [
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/hard-drive": [
+    {
+      "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+      "stack_trace": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171"
+    }
+  ],
+  "https://www.shredit.com/en-ca/marketing/document-destruction-service": [
+    {
+      "message": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171",
+      "stack_trace": "TypeError: Cannot read properties of null (reading 'firstElementChild')\n    at https://www.shredit.com/etc.clientlibs/stericycle/clientlibs/clientlib-shred-it-site.lc-46bc25f314541a4735e11109b51608cc-lc.min.js:30:171171"
+    }
+  ],
+  "https://www.shredit.com/en-us/contact-us": [
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/fr-ca/nos-prix-dechiquetage": [
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/fr-ca": [
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ],
+  "https://www.shredit.com/en-us/404": [
+    {
+      "message": "Failed to load resource: the server responded with a status of 404 ()",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "[Report Only] Refused to frame 'https://10360614.fls.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'none'\".\n",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    {
+      "message": "Failed to load resource: the server responded with a status of 404 ()",
+      "stack_trace": "Error\n    at eval (eval at evaluate (:313:29), <anonymous>:1:2)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:313:29)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  ]
+}

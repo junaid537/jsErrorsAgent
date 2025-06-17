@@ -44,7 +44,7 @@ class ErrorStackCollector:
         """Initialize the browser in headless mode."""
         print("Starting browser...")
         self.playwright = sync_playwright().start()
-        self.browser = self.playwright.chromium.launch(headless=False)
+        self.browser = self.playwright.chromium.launch(headless=True)
         self.context = self.browser.new_context(
             viewport={'width': 1280, 'height': 720},
             user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'
