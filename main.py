@@ -3,9 +3,45 @@
 # load_dotenv()
 import json
 import requests
+import re
+from urllib.parse import urlparse
 # from browser_error_collector import BrowserErrorCollector
 # from error_analysis_agents import ErrorAnalysisAgents
 from datetime import datetime
+from error_stack_collector import collect_error_stacks
+
+# Define patterns that indicate malicious content
+MALICIOUS_PATTERNS = [
+    r"sleep\((\d+|\d+\*\d+)\)",
+    r"waitfor\s+delay",
+    r"select\s+\d+\s+from\s+pg_sleep",
+    r"xor\s*\(",
+    r"['\"%27%22][^ ]*['\"%27%22]",
+    r"concat\(",
+    r"(require|socket|gethostbyname)",
+    r"(win\.ini|etc/passwd)",
+    r"<script>|esi:include",
+    r"dbms_pipe\.receive_message",
+]
+
+# Compile regex patterns
+compiled_patterns = [re.compile(p, re.IGNORECASE) for p in MALICIOUS_PATTERNS]
+
+def is_safe_url(url: str) -> bool:
+    """Filters out URLs that match known malicious patterns or are not proper HTTP/HTTPS URLs."""
+    try:
+        parsed = urlparse(url)
+        if parsed.scheme not in ['http', 'https']:
+            return False
+    except:
+        return False
+
+    # Check for known malicious patterns
+    for pattern in compiled_patterns:
+        if pattern.search(url):
+            return False
+
+    return True
 
 def fetch_rum_data():
     """Fetch RUM data from Shred-It."""
@@ -29,8 +65,14 @@ def parse_rum_js_errors(rum_data):
         session_url = session.get("url")
         if not session_url:
             continue
+
         for event in session.get("events", []):
             if event.get("checkpoint") == "error":
+                # Filter out malicious URLs at this stage
+                if not is_safe_url(session_url):
+                    print(f"Skipping malicious URL: {session_url}")
+                    continue
+
                 if session_url not in rum_errors_by_url:
                     rum_errors_by_url[session_url] = []
 
@@ -56,12 +98,20 @@ def main():
 
         # Print total count of errors
         total_errors = sum(len(errors) for errors in rum_errors_by_url.values())
-        print(f"Found {total_errors} JavaScript error events from {len(rum_errors_by_url)} unique URLs.")
+        print(f"Found {total_errors} JavaScript error events from {len(rum_errors_by_url)} unique URLs (after filtering malicious ones).")
 
         # Save RUM errors to JSON file
         with open('rum_errors_by_url.json', 'w') as f:
             json.dump(rum_errors_by_url, f, indent=2)
         print("RUM errors saved to rum_errors_by_url.json")
+
+        # Collect error stacks using Playwright
+        print("\nCollecting error stacks using Playwright...")
+        error_stacks = collect_error_stacks()
+        
+        # Print summary of collected error stacks
+        total_stacks = sum(len(stacks) for stacks in error_stacks.values())
+        print(f"\nCollected {total_stacks} error stacks across {len(error_stacks)} URLs")
 
         # # Example of how to use it (commented out)
         # for url, errors in rum_errors_by_url.items():
