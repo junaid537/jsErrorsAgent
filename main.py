@@ -107,7 +107,7 @@ def main():
 
         # Collect error stacks using Playwright
         print("\nCollecting error stacks using Playwright...")
-        error_stacks = run_diagnostic_collection()
+        error_stacks = collect_error_stacks() #run_diagnostic_collection()
         
         # Print summary of collected error stacks
         total_stacks = sum(len(stacks) for stacks in error_stacks.values())
