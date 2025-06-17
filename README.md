@@ -59,3 +59,11 @@ The system generates an `error_analysis_results.json` file containing:
 - It captures the full stack trace of errors
 - The analysis includes timing information and user interaction context
 - Results are saved in a structured JSON format for further processing 
+
+
+Crew Ai will do these :
+Have CrewAI analyze:
+The root cause of each error
+Potential fixes
+Impact on user experience
+Priority for fixing
