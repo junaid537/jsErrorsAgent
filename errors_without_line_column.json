@@ -1,0 +1,1740 @@
+{
+  "https://www.wilson.com/en-us/product/w-layup-basketball-short-ww00115rda": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/blog/tennis/how-tos/how-choose-tennis-string": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "@https://www.wilson.com/en-us/blog/tennis/how-tos/how-choose-tennis-string:1367:65",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: window.intlTelInput is not a function. (In 'window.intlTelInput(phoneInputField, {                                    onlyCountries: [\"US\"],                                    allowDropdown:false,                                    separateDialCode:true,                                    nationalMode:false,                                    utilsScript:\"https://cdn.jsdelivr.net/npm/intl-tel-input18.1.1/build/js/utils.js\",                                })', 'window.intlTelInput' is undefined)",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf/clubs/irons": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/football-repair-wtfrepairv": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-wrap-skirt-ww00435511wta": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/specialty-shops/autism-speaks-collection": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "TypeError: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/basketball/basketballs/indoor-game-balls": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/u-two-a-day-duffle-wu00000511dkl": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/blog/basketball/how-tos/how-break-wilson-official-nba-game-ball": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf/clubs/complete-golf-club-sets": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/evo-editions-nyc-bskt-wz10154": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:windows:gecko",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: NetworkError when attempting to fetch resource.",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:gecko",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:chromeos:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/evo-editions-heritage-bskt-wz10176": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-headliner-tennis-dress-ww00159511dkc": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "@https://www.wilson.com/en-us/product/w-headliner-tennis-dress-ww00159511dkc:1367:65",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: window.intlTelInput is not a function. (In 'window.intlTelInput(phoneInputField, {                                    onlyCountries: [\"US\"],                                    allowDropdown:false,                                    separateDialCode:true,                                    nationalMode:false,                                    utilsScript:\"https://cdn.jsdelivr.net/npm/intl-tel-input18.1.1/build/js/utils.js\",                                })', 'window.intlTelInput' is undefined)",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-midtown-tennis-skirt-ww00160511gyc": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/basketball/collections/final-four": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/tennis/tennis-rackets/blade": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-classic-pleated-skirt-ww0006503": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/search": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:chromeos:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:chromeos:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {},
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {},
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/the-duke-nfl-football-wf10011": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-gb/product/w-breeze-unlined-tennis-skirt-wl1103204": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "bot:social",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/m-tournament-short-v2-5-unlined-wm00503511buq": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/bela-tour-wrs00647": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/blog/tennis/how-tos/what-string-tension-should-i-use-my-tennis-racket": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/basketball/basketballs/outdoor-balls": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/baseball/baseball-gloves/a2000": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": null,
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:chromeos:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/it-it/product/evo-nxt-game-bskt-acb-copa-del-rey-wz10186": [
+    {
+      "error_source": "@https://www.wilson.com/it-it/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js?v=0.0.0:1:1870",
+      "user_agent": "bot:search",
+      "code_link": "https://www.wilson.com/it-it/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js",
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Cannot read properties of null (reading 'insertAdjacentHTML')",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/fr-fr/tennis/tennis-racket-grips": [
+    {
+      "error_source": "@https://www.wilson.com/fr-fr/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js?v=0.0.0:1:1870",
+      "user_agent": "bot:search",
+      "code_link": "https://www.wilson.com/fr-fr/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js",
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Cannot read properties of null (reading 'insertAdjacentHTML')",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/fr-fr/tennis/tennis-strings/wilson": [
+    {
+      "error_source": "@https://www.wilson.com/fr-fr/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js?v=0.0.0:1:1870",
+      "user_agent": "bot:search",
+      "code_link": "https://www.wilson.com/fr-fr/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js",
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Cannot read properties of null (reading 'insertAdjacentHTML')",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf/gear/golf-bags": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/it-it/product/nba-player-icon-uv-bskt-lebron-wz40305": [
+    {
+      "error_source": "@https://www.wilson.com/it-it/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js?v=0.0.0:1:1870",
+      "user_agent": "bot:search",
+      "code_link": "https://www.wilson.com/it-it/static/version1744014520/frontend/Wilson/Wilson/default//js/ds/outdated/out-of-date-page.js",
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Cannot read properties of null (reading 'insertAdjacentHTML')",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-brentwood-half-zip-ww00191511rdk": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/airless-gen1-bskt-black-wz1016103idv": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/collections/womens-tennis-collection": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/fastpitch/fastpitch-softball-gloves/a2000": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/volleyball/volleyballs/outdoor-beach-volleyballs": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Importing a module script failed.",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Importing a module script failed.",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/staff-model-cb-stl-wg1p0326": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-tour-perforated-unlined-dress-ww00466511rdb": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/tennis/tennis-rackets/shift": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/women/bottoms/shorts": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/baseball": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:chromeos:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf/golf-balls": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/yg-youth-team-tank-wyg0000wta": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/rush-pro-ace-wrs00550": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/shoes/womens": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/shift-99l-v1-wr14550": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-gb/product/staff-model-rb-utility-wg1p0360": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/women/new-arrivals": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ipados:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: Load failed",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ipados:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/fr-fr/tennis/tennis-strings/luxilon": [
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": null,
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/deals/mens-sportswear": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/blog/tennis/how-tos/how-choose-tennis-racket": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/men/mens-blue-clothes": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-westwood-sweater-ww00334gnn": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/basketball/basketballs/evolution-evonxt-basketballs": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "TypeError: window.intlTelInput is not a function",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/u-crew-stripe-script-sock-wu00063rdb": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/optx-avp-tour-replica-volleyball-wv40001": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/deals/womens-sportswear/shorts": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:gecko",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/collections/mens-tennis-collection": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/tennis/tennis-rackets": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/m-game-point-seamless-tee-wm00474dbc": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/checkout": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "bot:commerce",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/clear-fb-ball-stand-team-sports-wf60035": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/explore/basketball/airless-prototype": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/blog/tennis/how-tos/beginners-guide-tennis": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-midtown-tennis-skirt-ww00160511tqd": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/deals/womens-sportswear/skirts": [
+    {
+      "error_source": "@https://www.wilson.com/en-us/deals/womens-sportswear/skirts:1367:65",
+      "user_agent": "desktop:mac:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: window.intlTelInput is not a function. (In 'window.intlTelInput(phoneInputField, {                                    onlyCountries: [\"US\"],                                    allowDropdown:false,                                    separateDialCode:true,                                    nationalMode:false,                                    utilsScript:\"https://cdn.jsdelivr.net/npm/intl-tel-input18.1.1/build/js/utils.js\",                                })', 'window.intlTelInput' is undefined)",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:mac:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-midtown-wrap-skirt-ww00313bka": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/sportswear/women/best-sellers": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/basketball/basketballs/fiba-3x3": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/dynapwr-max-drv-wg1p0363": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "undefined error",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": null,
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/golf/clubs/putters": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:android:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/w-classic-pleated-skirt-ww0006502": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "desktop:windows:blink",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/wilson-wnba-tribute-basketball-wz40017": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "bot:commerce",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "bot:commerce",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "Unknown",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/m-pro-staff-seamless-undershort-wm00243bka": [
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ],
+  "https://www.wilson.com/en-us/product/infinite-wedges-wg1p0382": [
+    {
+      "error_source": "@https://www.wilson.com/en-us/product/infinite-wedges-wg1p0382:1367:65",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": "typeerror: window.intlTelInput is not a function. (In 'window.intlTelInput(phoneInputField, {                                    onlyCountries: [\"US\"],                                    allowDropdown:false,                                    separateDialCode:true,                                    nationalMode:false,                                    utilsScript:\"https://cdn.jsdelivr.net/npm/intl-tel-input18.1.1/build/js/utils.js\",                                })', 'window.intlTelInput' is undefined)",
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    },
+    {
+      "error_source": "Unhandled Rejection",
+      "user_agent": "mobile:ios:webkit",
+      "code_link": null,
+      "line": null,
+      "column": null,
+      "error_description": {
+        "target": {
+          "id": ""
+        }
+      },
+      "error_part_in_code": null,
+      "context_code": null,
+      "max_tokens_length_in_code_context": null
+    }
+  ]
+}

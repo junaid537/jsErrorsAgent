@@ -1,69 +1,184 @@
-# JavaScript Error Detection and Analysis System
+# Multi-agent JavaScript Error Detection and Analysis
 
-This system uses CrewAI and Playwright to detect and analyze JavaScript errors from RUM (Real User Monitoring) data and browser console logs. It helps identify new errors, analyze their root causes, and provide solutions for fixing them.
+A comprehensive JavaScript error analysis pipeline using CrewAI agents to process Real User Monitoring (RUM) data and provide intelligent error analysis and code fixes.
 
-## Features
+## 🚀 Features
 
-- Collects JavaScript errors from browser console using Playwright
-- Compares errors from RUM data with console errors
-- Uses CrewAI agents to analyze errors and provide solutions
-- Generates detailed reports with error analysis and fixes
+- **RUM Data Processing**: Fetches and processes Real User Monitoring data from web applications
+- **Intelligent Error Analysis**: Uses AI agents to analyze JavaScript errors and provide root cause analysis
+- **Code Fix Suggestions**: Generates specific fixes for JavaScript errors
+- **Error Categorization**: Automatically categorizes errors (network, CSP violations, embed errors, etc.)
+- **Filtering System**: Filters out minified files, malicious URLs, and errors without proper context
+- **Batch Processing**: Processes errors individually or in batches with token limit management
 
-## Setup
+## 📁 Project Structure
 
-1. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+```
+jsErrorsAgent/
+├── main.py                              # Main pipeline orchestrator
+├── test_iterate_single_error.py         # Individual error processing with CrewAI
+├── test_single_error.py                 # Single error testing script
+├── crewai_js_error_agents.py            # CrewAI agent definitions
+├── parse_rum_js_errors.py               # RUM data parsing utilities
+├── rum_errors_by_url_unique_description.json  # Processed error data
+├── all_results.json                     # CrewAI analysis results
+├── requirements.txt                     # Python dependencies
+└── README.md                           # This file
 ```
 
-2. Install Playwright browsers:
+## 🛠️ Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/junaid537/Multi-agent_Detect_JS-errors.git
+   cd Multi-agent_Detect_JS-errors
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Set up environment variables**:
+   Create a `.env` file in the root directory:
+   ```bash
+   OPENAI_API_KEY=your_openai_api_key_here
+   ```
+
+## 🔧 Usage
+
+### Complete Pipeline (Recommended)
+
+Run the complete pipeline that fetches RUM data, processes errors, and analyzes them with CrewAI:
+
 ```bash
-playwright install
+python3 main.py
 ```
 
-3. Create a `.env` file with any required API keys or configuration:
+This will:
+1. Fetch RUM data from the configured endpoint
+2. Parse and filter JavaScript errors
+3. Create `rum_errors_by_url_unique_description.json`
+4. Automatically run CrewAI analysis on all errors
+5. Generate `all_results.json` with analysis results
+
+### Individual Error Processing
+
+Process errors one by one with detailed analysis:
+
 ```bash
-# Add your environment variables here
+python3 test_iterate_single_error.py
 ```
 
-## Usage
+### Single Error Testing
 
-1. Prepare your RUM data in JSON format and save it as `rum_data.json`. The file should contain:
-   - URL of the page to analyze
-   - List of errors from RUM data
+Test the system with a single error:
 
-2. Run the main script:
 ```bash
-python main.py
+python3 test_single_error.py
 ```
 
-3. The script will:
-   - Load the RUM data
-   - Open the page in a headless browser
-   - Collect console errors
-   - Compare with RUM errors
-   - Analyze new errors using CrewAI agents
-   - Save results to `error_analysis_results.json`
+## 🤖 CrewAI Agents
 
-## Output
+The system uses two specialized AI agents:
 
-The system generates an `error_analysis_results.json` file containing:
-- Comparison between RUM and console errors
-- Detailed analysis of new errors
-- Suggested fixes and improvements
-- Performance optimization recommendations
+### 1. Expert JavaScript Error Analyzer
+- **Role**: Senior Software Development Engineer
+- **Purpose**: Analyzes error messages and code context to identify root causes
+- **Output**: Detailed error analysis and fix suggestions
 
-## Notes
+### 2. Expert JavaScript Fix Suggestor
+- **Role**: Senior JavaScript Developer
+- **Purpose**: Applies fixes based on the analyzer's suggestions
+- **Output**: Corrected code with applied fixes
 
-- The system focuses on non-minified code (EDS) for better error analysis
-- It captures the full stack trace of errors
-- The analysis includes timing information and user interaction context
-- Results are saved in a structured JSON format for further processing 
+## 📊 Output Format
 
+The `all_results.json` file contains structured analysis results:
 
-Crew Ai will do these :
-Have CrewAI analyze:
-The root cause of each error
-Potential fixes
-Impact on user experience
-Priority for fixing
+```json
+[
+  {
+    "error_description": "TypeError: Cannot read property 'x' of undefined",
+    "error_snippet": "const value = obj.x;",
+    "code_context": "function processData(obj) { const value = obj.x; return value; }",
+    "agent1_response": "Root cause analysis and fix suggestions...",
+    "agent2_response": "Fixed code with applied corrections..."
+  }
+]
+```
+
+## 🔍 Error Filtering
+
+The system automatically filters out:
+
+- **Minified files**: Files containing 'min' in the source
+- **Embed sources**: Sources containing 'embed' in the URL
+- **Malicious URLs**: URLs matching security patterns
+- **Errors without line/column**: Errors lacking proper location information
+- **Long context errors**: Errors with context > 1000 tokens
+
+## 📈 Generated Files
+
+- `rum_errors_by_url.json`: All parsed RUM errors
+- `rum_errors_by_url_unique_description.json`: Deduplicated errors
+- `errors_without_line_column.json`: Errors without proper location data
+- `network_errors.json`: Network-related errors
+- `csp_violation_errors.json`: Content Security Policy violations
+- `minified_errors.json`: Errors from minified files
+- `all_results.json`: Final CrewAI analysis results
+
+## 🛡️ Security Features
+
+- **URL Validation**: Filters malicious URLs using pattern matching
+- **Safe URL Patterns**: Validates HTTP/HTTPS URLs only
+- **Error Sanitization**: Cleans and validates error data before processing
+
+## 🔧 Configuration
+
+### RUM Data Source
+Configure the RUM data endpoint in `main.py`:
+```python
+url = "https://bundles.aem.page/bundles/www.bulk.com/2025/04/10?domainkey=YOUR_KEY"
+```
+
+### CrewAI Settings
+Modify agent parameters in `crewai_js_error_agents.py`:
+- Model: `gpt-4o`
+- Temperature: `0.5`
+- Max iterations: `4`
+
+## 📝 Dependencies
+
+- `crewai`: Multi-agent orchestration
+- `langchain-openai`: OpenAI integration
+- `python-dotenv`: Environment variable management
+- `requests`: HTTP requests for data fetching
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🆘 Support
+
+For issues and questions:
+1. Check the existing issues
+2. Create a new issue with detailed information
+3. Include error logs and configuration details
+
+## 🎯 Roadmap
+
+- [ ] Add support for more error types
+- [ ] Implement real-time error monitoring
+- [ ] Add web interface for results visualization
+- [ ] Support for multiple RUM data sources
+- [ ] Enhanced error categorization
+- [ ] Performance optimization for large datasets
