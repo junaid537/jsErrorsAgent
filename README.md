@@ -19,7 +19,6 @@ jsErrorsAgent/
 ├── test_iterate_single_error.py         # Individual error processing with CrewAI
 ├── test_single_error.py                 # Single error testing script
 ├── crewai_js_error_agents.py            # CrewAI agent definitions
-├── parse_rum_js_errors.py               # RUM data parsing utilities
 ├── rum_errors_by_url_unique_description.json  # Processed error data
 ├── all_results.json                     # CrewAI analysis results
 ├── requirements.txt                     # Python dependencies
@@ -30,8 +29,8 @@ jsErrorsAgent/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/junaid537/Multi-agent_Detect_JS-errors.git
-   cd Multi-agent_Detect_JS-errors
+   git clone https://github.com/junaid537/jsErrorsAgent.git
+   cd jsErrorsAgent
    ```
 
 2. **Install dependencies**:
