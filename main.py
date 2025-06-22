@@ -47,8 +47,6 @@ def is_safe_url(url: str) -> bool:
 def fetch_rum_data():
     """Fetch RUM data from Shred-It."""
     #url = "https://bundles.aem.page/bundles/www.bulk.com/2025/04/10?domainkey=8C96BCA5-AAA9-4C2F-83AA-25D98ED91F8A-8E11F549&checkpoint=click"
-    #url = "https://bundles.aem.page/bundles/www.petplace.com/2025/04/10?domainkey=16835A89-35A1-4C3F-91FD-5687F27CC2BE-8E11F549&checkpoint=click"
-    #url= "https://bundles.aem.page/bundles/www.bamboohr.com/2025/04/10?domainkey=269CB30C-A577-4DCC-A811-19D1F8ECAC15-8E11F549&checkpoint=click"
     url = "https://bundles.aem.page/bundles/www.wilson.com/2025/04/10?domainkey=B6A7571C-1066-48BD-911A-A22B5941DAD2-8E11F549&checkpoint=click"
     try:
         response = requests.get(url)
@@ -103,10 +101,13 @@ def get_code_context_and_max_tokens(code_link, line, context_radius=30):
 def parse_rum_js_errors(rum_data):
     """Parse RUM data to extract JavaScript errors."""
     if not rum_data or 'rumBundles' not in rum_data:
-        return {}, {}
+        return {}, {}, {}, {}, {}
 
     rum_errors_by_url = {}
     minified_errors = {}
+    embed_errors = {}
+    network_errors = {}
+    csp_violation_errors = {}
 
     for session in rum_data['rumBundles']:
         session_url = session.get("url")
@@ -154,7 +155,7 @@ def parse_rum_js_errors(rum_data):
                 }
                 rum_errors_by_url[session_url].append(error_info)
 
-    return rum_errors_by_url, minified_errors
+    return rum_errors_by_url, minified_errors, embed_errors, network_errors, csp_violation_errors
 
 def split_errors_by_line_column(rum_errors_by_url):
     errors_with_line_col = {}
@@ -198,14 +199,27 @@ def main():
             print("Failed to fetch RUM data")
             return
         
-        rum_errors_by_url, minified_errors = parse_rum_js_errors(rum_data)
+        rum_errors_by_url, minified_errors, embed_errors, network_errors, csp_violation_errors = parse_rum_js_errors(rum_data)
 
         # Split errors by presence of line/column
         rum_errors_by_url, errors_without_line_col = split_errors_by_line_column(rum_errors_by_url)
 
+        # Merge embed errors with errors without line/column
+        for url, embed_error_list in embed_errors.items():
+            if url in errors_without_line_col:
+                errors_without_line_col[url].extend(embed_error_list)
+            else:
+                errors_without_line_col[url] = embed_error_list
+
         # Print total count of errors
         total_errors = sum(len(errors) for errors in rum_errors_by_url.values())
+        total_embed_errors = sum(len(errors) for errors in embed_errors.values())
+        total_network_errors = sum(len(errors) for errors in network_errors.values())
+        total_csp_errors = sum(len(errors) for errors in csp_violation_errors.values())
         print(f"Found {total_errors} JavaScript error events from {len(rum_errors_by_url)} unique URLs (after filtering malicious ones).")
+        print(f"Found {total_embed_errors} embed error events from {len(embed_errors)} unique URLs.")
+        print(f"Found {total_network_errors} network error events from {len(network_errors)} unique URLs.")
+        print(f"Found {total_csp_errors} CSP violation error events from {len(csp_violation_errors)} unique URLs.")
 
         # Save RUM errors to JSON file
         with open('rum_errors_by_url.json', 'w') as f:
@@ -216,6 +230,18 @@ def main():
         with open('errors_without_line_column.json', 'w') as f:
             json.dump(errors_without_line_col, f, indent=2)
         print("Errors without line/column saved to errors_without_line_column.json")
+
+        # Save network errors separately
+        if network_errors:
+            with open('network_errors.json', 'w') as f:
+                json.dump(network_errors, f, indent=2)
+            print("Network errors saved to network_errors.json")
+
+        # Save CSP violation errors separately
+        if csp_violation_errors:
+            with open('csp_violation_errors.json', 'w') as f:
+                json.dump(csp_violation_errors, f, indent=2)
+            print("CSP violation errors saved to csp_violation_errors.json")
 
         # Save minified errors separately
         if minified_errors:
@@ -280,7 +306,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+'''
     # --- CrewAI Agent Integration ---
     try:
         print("\nStarting CrewAI agent-based error analysis...\n")
@@ -293,4 +319,4 @@ if __name__ == "__main__":
             print(res['analysis_result'])
             print("-"*60)
     except Exception as e:
-        print(f"CrewAI agent pipeline failed: {e}") 
+        print(f"CrewAI agent pipeline failed: {e}") '''
