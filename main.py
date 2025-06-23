@@ -1,14 +1,9 @@
-# from dotenv import load_dotenv
-# import os
-# load_dotenv()
+
 import json
 import requests
 import re
 from urllib.parse import urlparse
-# from browser_error_collector import BrowserErrorCollector
-# from error_analysis_agents import ErrorAnalysisAgents
 from datetime import datetime
-# from error_stack_collector import run_diagnostic_collection
 import os
 import sys
 
@@ -310,24 +305,6 @@ def main():
 
     except Exception as e:
         print(f"An unexpected error occurred: {str(e)}")
-    # finally:
-    #     # Ensure browser is closed even if errors occur (commented out)
-    #     # if 'browser_collector' in locals() and browser_collector.browser:
-    #     #     browser_collector.close()
 
 if __name__ == "__main__":
     main()
-'''
-    # --- CrewAI Agent Integration ---
-    try:
-        print("\nStarting CrewAI agent-based error analysis...\n")
-        from crewai_js_error_agents import JavaScriptErrorAnalysisSystem
-        js_error_system = JavaScriptErrorAnalysisSystem()
-        results = js_error_system.process_json_data('rum_errors_by_url_unique_description.json')
-        print("\nCrewAI batch analysis completed!\n")
-        for res in results:
-            print(f"Chunk {res['chunk_id']} ({res['json_objects_count']} errors, {res['token_count']} tokens):")
-            print(res['analysis_result'])
-            print("-"*60)
-    except Exception as e:
-        print(f"CrewAI agent pipeline failed: {e}") '''
