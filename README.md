@@ -51,11 +51,20 @@ jsErrorsAgent/
 Run the complete pipeline that fetches RUM data, processes errors, and analyzes them with CrewAI:
 
 ```bash
-python3 main.py
+python3 main.py "<RUM_DATA_URL>"
 ```
 
+Replace `<RUM_DATA_URL>` with your actual RUM data endpoint. For example:
+
+```bash
+python3 main.py "https://bundles.aem.page/bundles/www.bulk.com/2025/04/10?domainkey=YOUR_KEY"
+```
+
+- If no URL is provided, the program will use a default sample URL.
+- Always wrap the URL in quotes to avoid shell interpretation issues with special characters like `?` and `&`.
+
 This will:
-1. Fetch RUM data from the configured endpoint
+1. Fetch RUM data from the provided endpoint
 2. Parse and filter JavaScript errors
 3. Create `rum_errors_by_url_unique_description.json`
 4. Automatically run CrewAI analysis on all errors
@@ -136,10 +145,7 @@ The system automatically filters out:
 ## 🔧 Configuration
 
 ### RUM Data Source
-Configure the RUM data endpoint in `main.py`:
-```python
-url = "https://bundles.aem.page/bundles/www.bulk.com/2025/04/10?domainkey=YOUR_KEY"
-```
+You can now provide the RUM data endpoint directly as a command-line argument when running `main.py` (see Usage above). The default URL in the code is only used if no argument is provided.
 
 ### CrewAI Settings
 Modify agent parameters in `crewai_js_error_agents.py`:

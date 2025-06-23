@@ -10,6 +10,7 @@ from urllib.parse import urlparse
 from datetime import datetime
 # from error_stack_collector import run_diagnostic_collection
 import os
+import sys
 
 # Define patterns that indicate malicious content
 MALICIOUS_PATTERNS = [
@@ -44,10 +45,8 @@ def is_safe_url(url: str) -> bool:
 
     return True
 
-def fetch_rum_data():
+def fetch_rum_data(url):
     """Fetch RUM data from Shred-It."""
-    #url = "https://bundles.aem.page/bundles/www.bulk.com/2025/04/10?domainkey=8C96BCA5-AAA9-4C2F-83AA-25D98ED91F8A-8E11F549&checkpoint=click"
-    url = "https://bundles.aem.page/bundles/www.wilson.com/2025/04/10?domainkey=B6A7571C-1066-48BD-911A-A22B5941DAD2-8E11F549&checkpoint=click"
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -193,7 +192,19 @@ def main():
     # browser_collector = BrowserErrorCollector()
     # error_agents = ErrorAnalysisAgents()
     try:
-        rum_data = fetch_rum_data()
+        print("main.py started", flush=True)
+        if len(sys.argv) > 1:
+            url = sys.argv[1]
+            if url.startswith('@'):
+                print("Stripping leading '@' from URL", flush=True)
+                url = url[1:]
+            print(f"URL received: {url}", flush=True)
+        else:
+            url = "https://bundles.aem.page/bundles/www.wilson.com/2025/04/10?domainkey=B6A7571C-1066-48BD-911A-A22B5941DAD2-8E11F549&checkpoint=click"
+            print("No URL provided, using default.", flush=True)
+        print(f"Fetching RUM data from: {url}", flush=True)
+        rum_data = fetch_rum_data(url)
+        print("Fetched RUM data", flush=True)
 
         if not rum_data:
             print("Failed to fetch RUM data")
